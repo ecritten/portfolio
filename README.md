@@ -9,4 +9,4 @@ My full first name is Elizabeth, but everybody calls me B. I use she/her pronoun
 I hope to build a robust but practical toolkit of dataviz resources to carry forward into my career for any data visualization needs that might come up! I also hope to learn best practices of dataviz and become more comfortable and confident with turning complex ideas and data into simple and effective visualizations. 
 
 # Portfolio
-...
+[Dataviz1](/dataviz1.md)
