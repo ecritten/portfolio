@@ -1,20 +1,20 @@
 # Assignment 2: Visualizing government debt
 
-<br/>
+<br>
 
 <h3>Government Debt Bar Chart:</h3>
 
 <iframe src="https://data.oecd.org/chart/6gPo" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gPo" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
 
-<br/>
+<br>
 
-Grid of Line Charts: 
+<h3>Grid of Line Charts:</h3> 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5296585"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<br/>
+<br>
 
-Third Data Visualization: Debt-to-GDP Ratios, Various Countries vs. USA Range (1995-2019)
+<h3>Third Data Visualization: Debt-to-GDP Ratios, Various Countries vs. USA Range (1995-2019)</h3>
 
 This chart depicts the debt-to-GDP ratio of each country included in the data set between 1995-2019, much like the grid of line charts above; however, is it visualized in a single chart and allows the user to toggle between countries using the buttons floating above the chart or view all countries at once by selecting "All". An opaque-gray horizontal bar highlights the range of the US's ratio values between 1995 and 2019 so that it can be used to benchmark against the others. 
 
@@ -28,7 +28,7 @@ The first visualization (bar chart) is useful for isolating a single year and co
 
 This is why I approached the third visualization the way I did: I wanted to view the ratio values across time (like the second visualization), but I wanted to be able compare the data easier and I wanted a single chart in view (as opposed to the grid of charts, which I found to laborious to comprehend). Supposing that the audience wants to see how the US ratios compare to each country's, I highlighted the US's range in each view. Toggling between each country allows the user to access detailed ratios in the date-range and compare these value's to the US's range. The "All" buttom gives a less-detailed but more general overview of the data. 
 
-<br/>
-<br/>
+<br>
+<br>
 
 [Back to Portfolio](/portfolio)
