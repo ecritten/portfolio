@@ -2,20 +2,20 @@
 
 <h2>Outline</h2>
 
-The outline of your final project should serve as the building blocks for the rest of your presentation.  Your outline should be something that you can later use to help fill in some of the details around your project.  
+In this project, I'm interesting in showing how the arts and culture sectors have a well-established economic impact, but there is potential for them to better address needs and make a greater impact in their communities. I will make an example of how creative placemaking in food and agriculture initiatives achieves this idea of equitable community development. 
 
-At a minimum, you should include the following: 
+The arts and culture should adopt creative placemaking practices and work collaboratively to foster inclusive community development and better address the needs of their communities. The audience of this project is artists, arts and culture organizers, community organizers, and public administrators. After reading it, they should want to incorporate creative placemaking into their programming/planning/activities to improve the community's sense of identity, pride, self-reliance, health, and leadership of community residents. They can do this by collaborating with artists, community residents, and organizers, leveraging existing assets and using these to address the community's needs. 
 
-A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
-A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  
-
+<h3>Project Structure:</h3>
 
 ![Story Arc Sketch](/File_000.jpeg)
 
 
 <h2>Initial sketches</h2>
 
-We've begun to explore how sketching can be a great way to help solidify your ideas into design choices, and for your proposal you'll be creating sketches that outline your initial thoughts for your final project.  You may choose to present your sketches and integrate them into Part I of your final project in whatever fashion you feel makes the most sense - but they should be clear enough to be understandable to someone that has little to no contextual background for your project.  Your sketches should mimic aspects of your outline, and build on the resounding message you want to make clear through your project.  Build in elements of your anticipated story structure for your project.  Your sketches themselves do not have to be visually correct / accurate and you may use whatever method makes the most sense to you (hand-drawn, digital, etc.).   Show both your anticipated data visualizations as well as major elements of your story itself (e.g key headers, etc.)
+Set up: The arts/culture are a powerful catalyst for economic development <br>
+Conflict: Art/culture in isolation isn't as impactful as it could be and can have a negative effect on its local communities (e.g. development leads to gentrication and displacement)<br>
+Resolution: The arts/culture can serve its communities more fully and inclusively by incorporating creative placemaking practices, working in collaboration and leveraging community assets to address unique needs of the community (e.g. Equitable Food Oriented Development and Creative Placemaking; farmers markets as hubs for cultural exchange)
 
 ![Outline sketch](/File_001.jpeg) <br>
 ![Outline sketch](/File_002.jpeg) <br>
@@ -24,21 +24,18 @@ We've begun to explore how sketching can be a great way to help solidify your id
 
 <h2>The data</h2>
 
-It's important that you identify your primary data source.  To be successful in the final project, you'll need to get a copy of the data you'll need for your final project, or recreate it based on various sources.  Make sure in all cases to record your sources and cite these data sources appropriately. 
-
-At a minimum, you should include the following: 
-
-A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+This project will require information from several different data sets and types. Three primary sets of raw data will be used: Americans for the Arts' (AFTA) Arts Vitality Index data will we used in the "Set up" to show how the arts impact their local economies; I plan to pull out data for the state of Pennsylvania to visualize as a map using bubbles to depict volume of economic impact. The Food Environment Atlas data will be used in the "Conflict" portion of the project to visualize food deserts in Pennsylvania as I set up the example of Equitable Food Oriented Development and Creative Placemaking. The ArtPlace Sector Analysis is a set of qualitative data and will be used to create a concept map that communicates the ways that collaborations between arts/culture and food/agriculture initiatives impact their communities. 
 
 <h3>Raw Data Sets:</h3> 
 
 [AFTA Arts Vitality Index](/36984-0001-Data.xlsx)
 
-[ArtPlace Cross Sector Analysis](/2020-12_ArtPlace-Cross-Sector-Analysis_FINAL.xlsx)
-
 [Food Environment Atlas](/FoodEnvironmentAtlas.xls)
 
+[ArtPlace Cross Sector Analysis](/2020-12_ArtPlace-Cross-Sector-Analysis_FINAL.xlsx)
+
+
+The remaining data is pulled from the following reports on creative placemaking and farmers markets (which will be used to exemplify how farmers markets incorporate creative placemaking and improve their communities.) 
 
 <h3>Reports:</h3> 
 
