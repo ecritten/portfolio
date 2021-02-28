@@ -12,3 +12,5 @@ I hope to build a robust but practical toolkit of dataviz resources to carry for
 [Dataviz2: Assignment 2, Visualizing Government Debt](/dataviz2.md)
 <br>
 [Dataviz34: Assignment 3 & 4, Critique by Design](/dataviz34.md)
+<br?
+[Final Project: Part I](/final_project_Crittenden.md)
