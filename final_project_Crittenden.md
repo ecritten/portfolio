@@ -17,8 +17,8 @@ Set up: The arts/culture are a powerful catalyst for economic development <br>
 Conflict: Art/culture in isolation isn't as impactful as it could be and can have a negative effect on its local communities (e.g. development leads to gentrication and displacement)<br>
 Resolution: The arts/culture can serve its communities more fully and inclusively by incorporating creative placemaking practices, working in collaboration and leveraging community assets to address unique needs of the community (e.g. Equitable Food Oriented Development and Creative Placemaking; farmers markets as hubs for cultural exchange)
 
-![Outline sketch](/File_001.jpeg) <br>
 ![Outline sketch](/File_002.jpeg) <br>
+![Outline sketch](/File_001.jpeg) <br>
 ![Outline sketch](/File_003.jpeg) <br>
 
 
