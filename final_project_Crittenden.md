@@ -1,3 +1,5 @@
+<h1> Final Project: Part I </h1>
+
 <h3>Outline</h3>
 
 The outline of your final project should serve as the building blocks for the rest of your presentation.  Your outline should be something that you can later use to help fill in some of the details around your project.  
