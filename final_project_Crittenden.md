@@ -15,9 +15,9 @@ A project structure that outlines the major elements of your story.  Your Good C
 
 We've begun to explore how sketching can be a great way to help solidify your ideas into design choices, and for your proposal you'll be creating sketches that outline your initial thoughts for your final project.  You may choose to present your sketches and integrate them into Part I of your final project in whatever fashion you feel makes the most sense - but they should be clear enough to be understandable to someone that has little to no contextual background for your project.  Your sketches should mimic aspects of your outline, and build on the resounding message you want to make clear through your project.  Build in elements of your anticipated story structure for your project.  Your sketches themselves do not have to be visually correct / accurate and you may use whatever method makes the most sense to you (hand-drawn, digital, etc.).   Show both your anticipated data visualizations as well as major elements of your story itself (e.g key headers, etc.)
 
-[Outline sketch](/File_001.jpeg)
-[Outline sketch](/File_002.jpeg)
-[Outline sketch](/File_003.jpeg)
+[Outline sketch](/File_001.jpeg) <br>
+[Outline sketch](/File_002.jpeg) <br>
+[Outline sketch](/File_003.jpeg) <br>
 
 
 <h3>The data</h3>
