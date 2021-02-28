@@ -26,6 +26,8 @@ Resolution: The arts/culture can serve its communities more fully and inclusivel
 
 This project will require information from several different data sets and types. Three primary sets of raw data will be used: Americans for the Arts' (AFTA) Arts Vitality Index data will we used in the "Set up" to show how the arts impact their local economies; I plan to pull out data for the state of Pennsylvania to visualize as a map using bubbles to depict volume of economic impact. The Food Environment Atlas data will be used in the "Conflict" portion of the project to visualize food deserts in Pennsylvania as I set up the example of Equitable Food Oriented Development and Creative Placemaking. The ArtPlace Sector Analysis is a set of qualitative data and will be used to create a concept map that communicates the ways that collaborations between arts/culture and food/agriculture initiatives impact their communities. 
 
+The remaining data is pulled from the following reports on creative placemaking and farmers markets (which will be used to exemplify how farmers markets incorporate creative placemaking and improve their communities.)
+
 <h3>Raw Data Sets:</h3> 
 
 [AFTA Arts Vitality Index](/36984-0001-Data.xlsx)
@@ -34,8 +36,6 @@ This project will require information from several different data sets and types
 
 [ArtPlace Cross Sector Analysis](/2020-12_ArtPlace-Cross-Sector-Analysis_FINAL.xlsx)
 
-
-The remaining data is pulled from the following reports on creative placemaking and farmers markets (which will be used to exemplify how farmers markets incorporate creative placemaking and improve their communities.) 
 
 <h3>Reports:</h3> 
 
@@ -56,9 +56,11 @@ The remaining data is pulled from the following reports on creative placemaking 
 
 <h2>Method and medium</h2>
 
-In a few paragraphs, you should document how you plan on completing your final project.  One option we've already discussed is building a story using your data using Shorthand - but this is my no means your only option.  You may select another digital platform (e.g. Esri's Story Maps, etc.), or you may propose doing something else entirely (AR / VR, mixed media, etc.).  If you choose to do something significantly outside of the technologies we've introduced in this course, please talk to me first.  I'd like all final projects to be documented digitally, so if you create something using physical materials  or more immersive, you may need to also create a video recording of your story. 
+The final project will be presented using Shorthand. I plan to use a simple design and focus on a color scheme with greens, grays, and whites. I will incorporate photographs of communities gathering at markets (available for public use, of course.) 
 
-Finally, for your final project presentation I'd discourage an over-reliance on PowerPoint slides. If you need to use a few slides to frame the context of your final project presentation (a pitch deck) that's ok - but your Powerpoint slides alone are not sufficient in meeting the requirements of the final project deliverable.  Your final project deliverable must be an interactive, stand-alone project (e.g. something you've created using Shorthand or another platform) that won't require a future employer clicking through yet another PowerPoint deck. 
+The visualizations will be created using Tableau. I may use Flourish and Canva, as well. Tableau will be used to create the maps (food desert map and Arts Vitality Index map) and to generate the bar charts visualizing the quantative data (reported benefits of farmers markets and creative economy data). 
+
+I may end up using Flourish to generate the Network Diagram (to demonstrate asset-based community development) and may use Canva to create the conceptual visualizations. 
 
 <br>
 
