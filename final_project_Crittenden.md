@@ -31,7 +31,30 @@ At a minimum, you should include the following:
 A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
+Raw Data Sets: 
+
 [AFTA Arts Vitality Index](/36984-0001-Data.xlsx)
+
+[ArtPlace Cross Sector Analysis](/2020-12_ArtPlace-Cross-Sector-Analysis_FINAL.xlsx)
+
+[Food Environment Atlas](/FoodEnvironmentAtlas.xls)
+
+
+Reports: 
+
+[ArtPlace Field Scan: Agriculture and Food](/2019-05_ArtPlace Field Scan_Ag & Food_DAISA.pdf)
+
+[Diversifying Farmers Markets](/Diversifying Farmers Markets.pdf)
+
+[Estimating the Economic Impact of Public Markets](/ESTIMATING THE ECONOMIC IMPACT of Pub Markets_pps_public_markets_eis.pdf)
+
+[Farmers Markets as a Strategy to Improve Access to Healthy Food for Low Income Families and Communities](/Farmers Markets as a Strategy to Improve_RWJF-Report.pdf)
+
+[Pub Markets as a Vehicle for Social Integration and Upward Mobility](/Pub Markets as a Vehicle for Social Integration and Upward Mobility_Ford_Report_2002-3.pdf)
+
+[Public Markets & Community-Based Food Systems](/Public Markets & Community-Based Food Systems_Kellog_Report_2002-3.pdf)
+
+[Creative Placemaking](Week 1_Creative Placemaking_Markusen and Gadwa.pdf)
 
 
 <h3>Method and medium</h3>
