@@ -13,4 +13,4 @@ I hope to build a robust but practical toolkit of dataviz resources to carry for
 <br>
 [Dataviz34: Assignment 3 & 4, Critique by Design](/dataviz34.md)
 <br>
-[Final Project: Part I](/final_project_Crittenden.md)
+[Final Project: Part I](/final_project_pt I_Crittenden.md)
