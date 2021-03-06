@@ -18,3 +18,7 @@ e. changes you plan on implementing to your visualizations next week to address 
 
 <h2>Optional: moodboards and personas</h2>
 You may find it helpful to use a moodboard to both identify examples of what has worked well when visualizing similar datasets, as well as any general themes in color, typography, or other elements.  Use your moodboards to help construct your story further.   Personas can also be used to help you create a representation of the kind of readers you expect to address with your final project.  Both these artifacts will help you in Part III should you choose to create them. 
+
+<br>
+
+[Back to Portfolio](/portfolio)
