@@ -22,9 +22,12 @@ My sample...
 
 <h3>Interview Script:</h3>
 
+![Interview Script](/interview_script.PNG)
+
 
 <h3>Interview Findings and Changes to Implement:</h3>
 
+![Findings and Next Steps](/Findings.PNG)
 
 
 [Back to Part I](/final_project_ptI_Crittenden.md)
