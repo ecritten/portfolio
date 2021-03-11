@@ -18,6 +18,33 @@ Screenshots from Shorthand:
 ![12](/12.PNG)
 ![13](/13.PNG)
 
+<br>
+
+<h3>Resources</h3>
+
+Header Image: <p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src="https://live.staticflickr.com/5491/31305686265_96878a30d1_b.jpg" alt="Vancouver, British Columbia, Canada (April 2016)"><a href="https://www.flickr.com/photos/77363333@N08/31305686265">"Vancouver, British Columbia, Canada (April 2016)"</a><span> by <a href="https://www.flickr.com/photos/77363333@N08">@CarShowShooter</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC-SA 2.0</a><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg?image_id=0496c3be-f3e1-40b0-924a-db554669961b" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-sa_icon.svg" /></a></p>
+
+[AFTA Arts Vitality Index](/36984-0001-Data.xlsx)
+
+[Food Environment Atlas](/FoodEnvironmentAtlas.xls)
+
+[ArtPlace Cross Sector Analysis](/2020-12_ArtPlace-Cross-Sector-Analysis_FINAL.xlsx)
+
+[ArtPlace Field Scan: Agriculture and Food](/2019-05_ArtPlace Field Scan_Ag & Food_DAISA.pdf)
+
+[Diversifying Farmers Markets](/Diversifying Farmers Markets.pdf)
+
+[Estimating the Economic Impact of Public Markets](/ESTIMATING THE ECONOMIC IMPACT of Pub Markets_pps_public_markets_eis.pdf)
+
+[Farmers Markets as a Strategy to Improve Access to Healthy Food for Low Income Families and Communities](/Farmers Markets as a Strategy to Improve_RWJF-Report.pdf)
+
+[Pub Markets as a Vehicle for Social Integration and Upward Mobility](/Pub Markets as a Vehicle for Social Integration and Upward Mobility_Ford_Report_2002-3.pdf)
+
+[Public Markets & Community-Based Food Systems](/Public Markets & Community-Based Food Systems_Kellog_Report_2002-3.pdf)
+
+[Creative Placemaking](Week 1_Creative Placemaking_Markusen and Gadwa.pdf)
+
+
 <h2>User Research and Interviews</h2>
 
 <h3>Target Audience:</h3>
