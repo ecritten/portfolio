@@ -1,20 +1,29 @@
 <h1>Final Project: Part II</h1>
 
-<h2>Wireframes and storyboards</h2>
+<h2>Wireframe</h2>
 
 https://preview.shorthand.com/sWezjoNsefX3Y1bB
 
 
 <h2>User research and interviews</h2>
-You should have also developed a simple user research protocol that describes what you hope to find during your user interviews, including your research questions and the script.  Once your interviews are complete, you should have documented findings that detail what you've learned by showing your early wireframes / storyboards to at least three different individuals.  
 
-Your user research protocol should clearly identify the following: 
+<h3>Target Audience:</h3>
 
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+Arts/culture/creative industry administrators, artists, and community organizers in the U.S. – people who plan arts/cultural/community events and could implement creative placemaking practices going forward. 
+
+<h3>Approach to Interviewees:</h3>
+
+I want my sample to include an artist and then a couple of arts administrators. I want a balance of arts admins who both do and don't have much prior knowledge of community engagement and creative placemaking. 
+
+My sample...
+- 1 mid-career artist
+- 1 arts/culture/creative industry administrator without a community engagement background
+- 1 arts/culture/creative industry with a community engagement background 
+
+<h3>Interview Script:</h3>
+
+
+<h3>Interview Findings and Changes to Implement:</h3>
 
 
 
