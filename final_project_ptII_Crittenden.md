@@ -2,8 +2,21 @@
 
 <h2>Wireframe</h2>
 
-https://preview.shorthand.com/sWezjoNsefX3Y1bB
+Screenshots from Shorthand:
 
+![1](/1.PNG)
+![2](/2.PNG)
+![3](/3.PNG)
+![4](/4.PNG)
+![5](/5.PNG)
+![6](/6.PNG)
+![7](/Inked6_LI.jpg)
+![8](/Inked7_LI.jpg)
+![9](/Inked8_LI.jpg)
+![10](/10.PNG)
+![11](/11.PNG)
+![12](/12.PNG)
+![13](/13.PNG)
 
 <h2>User Research and Interviews</h2>
 
