@@ -5,7 +5,7 @@
 https://preview.shorthand.com/sWezjoNsefX3Y1bB
 
 
-<h2>User research and interviews</h2>
+<h2>User Research and Interviews</h2>
 
 <h3>Target Audience:</h3>
 
@@ -27,4 +27,6 @@ My sample...
 
 
 
+[Back to Part I](/final_project_ptI_Crittenden.md)
+<br>
 [Back to Portfolio](/portfolio)
