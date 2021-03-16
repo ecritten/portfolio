@@ -6,6 +6,6 @@ A few paragraphs that reflects on changes you made since the completion of Part 
 
 <h2>Link to Final Data Story</h2>
 
-[Final Data Story](/https://carnegiemellon.shorthandstories.com/the-underutilized-role-of-arts-and-culture-in-community-development/index.html)
+[Final Data Story](https://carnegiemellon.shorthandstories.com/the-underutilized-role-of-arts-and-culture-in-community-development/index.html)
 
 Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible.
