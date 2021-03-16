@@ -16,3 +16,7 @@ I hope to build a robust but practical toolkit of dataviz resources to carry for
 [Final Project: Part I](/final_project_ptI_Crittenden.md)
 <br>
 [Final Project: Part II](/final_project_ptII_Crittenden.md)
+<br>
+[Final Project: Part III](/final_project_ptIII_Crittenden.md)
+<br>
+[Final Data Story: The Underutilized Role of Arts and Culture in Community Development](https://carnegiemellon.shorthandstories.com/the-underutilized-role-of-arts-and-culture-in-community-development/index.html)
