@@ -6,7 +6,7 @@ A few paragraphs that reflects on changes you made since the completion of Part 
 
 <h2>Links:</h2>
 
-[Final Data Story:The Underutilized Role of Arts and Culture in Community Development](https://carnegiemellon.shorthandstories.com/the-underutilized-role-of-arts-and-culture-in-community-development/index.html)
+[Final Data Story: The Underutilized Role of Arts and Culture in Community Development](https://carnegiemellon.shorthandstories.com/the-underutilized-role-of-arts-and-culture-in-community-development/index.html)
 <br>
 <br>
 [Back to Part I](/final_project_ptI_Crittenden.md)
