@@ -22,7 +22,7 @@ Resolution: The arts/culture can serve its communities more fully and inclusivel
 ![Outline sketch](/File_003.jpeg) <br>
 
 
-<h2>The data</h2>
+<h2>The Data</h2>
 
 This project will require information from several different data sets and types. Three primary sets of raw data will be used: Americans for the Arts' (AFTA) Arts Vitality Index data will we used in the "Set up" to show how the arts impact their local economies; I plan to pull out data for the state of Pennsylvania to visualize as a map using bubbles to depict volume of economic impact. The Food Environment Atlas data will be used in the "Conflict" portion of the project to visualize food deserts in Pennsylvania as I set up the example of Equitable Food Oriented Development and Creative Placemaking. The ArtPlace Sector Analysis is a set of qualitative data and will be used to create a concept map that communicates the ways that collaborations between arts/culture and food/agriculture initiatives impact their communities. 
 
@@ -64,5 +64,12 @@ I may end up using Flourish to generate the Network Diagram (to demonstrate asse
 
 <br>
 
-
+[Final Project: Part I](/final_project_ptI_Crittenden.md)
+<br>
+[Final Project: Part II](/final_project_ptII_Crittenden.md)
+<br>
+[Final Project: Part III](/final_project_ptIII_Crittenden.md)
+<br>
+[Final Data Story: The Underutilized Role of Arts and Culture in Community Development](https://carnegiemellon.shorthandstories.com/the-underutilized-role-of-arts-and-culture-in-community-development/index.html)
+<br>
 [Back to Portfolio](/portfolio)
