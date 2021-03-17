@@ -1,5 +1,7 @@
 <h1> Final Project: Part I </h1>
 
+Part I of B Crittenden's Final Project (Telling Stories with Data, Mini 3, Spring 2021)
+
 <h2>Outline</h2>
 
 In this project, I'm interesting in showing how the arts and culture sectors have a well-established economic impact, but there is potential for them to better address needs and make a greater impact in their communities. I will make an example of how creative placemaking in food and agriculture initiatives achieves this idea of equitable community development. 
