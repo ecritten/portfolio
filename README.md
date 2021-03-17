@@ -1,4 +1,4 @@
-Portfolio for Mini 3, Spring 2021 TSWD
+Portfolio for Telling Stories with Data, Mini 3, Spring 2021
 
 # About me
 My full first name is Elizabeth, but everybody calls me B. I use she/her pronouns. I am currently a second-year student in the Master of Arts Management program at Heinz College. My background is in the performing arts, but I have worked in a variety of arts organizations, from music, to dance, to museums. Once I graduate, I plan to work for a performing arts organization in general management/operations, artistic planning, or community engagement. 
