@@ -20,7 +20,7 @@ Screenshots from Shorthand:
 
 <br>
 
-<h3>Resources</h3>
+<h3>Resources:</h3>
 
 Header Image: "Vancouver, British Columbia, Canada (April 2016)" by @CarShowShooter is licensed with CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/
 
