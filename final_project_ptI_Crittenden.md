@@ -64,8 +64,7 @@ I may end up using Flourish to generate the Network Diagram (to demonstrate asse
 
 <br>
 
-[Final Project: Part I](/final_project_ptI_Crittenden.md)
-<br>
+
 [Final Project: Part II](/final_project_ptII_Crittenden.md)
 <br>
 [Final Project: Part III](/final_project_ptIII_Crittenden.md)
