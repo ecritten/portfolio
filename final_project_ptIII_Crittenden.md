@@ -10,7 +10,7 @@ Additional, smaller changes I made in this final stage included adding text to f
 
 One of my greatest challenges with this project was visualizing the qualitative data I had. Each qualitative data visualization saw several iterations in which I tried to find the balance between displaying the data clearly vs. creatively. My initial designs skewed to the more creative side, but, through the design process, representing the information clearly was the way to go—this was a good lesson for me. I ended up creating simple infographics in Infogram for a couple of these and I used Flourish designs for communicating concepts for the others. 
 
-<h2>Links:</h2>
+<h2>Link to Final Data Story:</h2>
 
 [Final Data Story: The Underutilized Role of Arts and Culture in Community Development](https://carnegiemellon.shorthandstories.com/the-underutilized-role-of-arts-and-culture-in-community-development/index.html)
 <br>
@@ -18,5 +18,6 @@ One of my greatest challenges with this project was visualizing the qualitative 
 [Back to Part I](/final_project_ptI_Crittenden.md)
 <br>
 [Back to Part II](/final_project_ptII_Crittenden.md)
+<br>
 <br>
 [Back to Portfolio](/portfolio)
