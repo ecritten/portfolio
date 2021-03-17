@@ -1,5 +1,7 @@
 <h1>Final Project: Part II</h1>
 
+Part II of B Crittenden's Final Project (Telling Stories with Data, Mini 3, Spring 2021)
+
 <h2>Wireframe</h2>
 
 Screenshots from Shorthand:
